@@ -19,6 +19,7 @@ export default function HomeScreen() {
           />
         }>
         <ThemedView style={styles.titleContainer}>
+        <HelloWave />
           <ThemedText type="title">Indian Articles</ThemedText>
           <HelloWave />
         </ThemedView>

@@ -298,364 +298,97 @@ const indianConstitutionArticles: Part[] = [
   },
   {
     part: "Part V",
-    title: "Union (52-151)",
+    title: "President (52-62)",
     articles: [
       {
         article: "Article 52",
         title:
-          "There shall be a President of India, who shall be the head of state.",
+          "The President of India",
       },
       {
         article: "Article 53",
         title:
-          "The executive power of the Union shall be vested in the President and shall be exercised by him either directly or through officers subordinate to him.",
+          "Executive Power of the Union",
       },
       {
         article: "Article 54",
         title:
-          "The President shall be elected by an electoral college consisting of elected members of both Houses of Parliament and the elected members of the Legislative Assemblies of States and Union territories.",
+          "Election of President",
       },
       {
         article: "Article 55",
         title:
-          "The manner of election of the President shall be prescribed by the Parliament in accordance with the system of proportional representation by means of a single transferable vote.",
+          "Manner of Election of President",
       },
       {
         article: "Article 56",
-        title:
-          "The President shall hold office for a term of five years from the date on which he enters upon his office.",
+        title:"Term of office of President",
       },
       {
         article: "Article 57",
-        title:
-          "The President shall be eligible for re-election to the office of the President.",
+        title:"Eligibility for re-election",
       },
       {
         article: "Article 58",
-        title:
-          "A person shall not be eligible for election to the office of President unless he is a citizen of India, has completed the age of 35 years, and is qualified to be a member of the House of the People.",
+        title:"Qualifications for Election as President",
       },
       {
         article: "Article 59",
-        title:
-          "The President shall not hold any other office of profit, and shall be entitled to such emoluments and allowances as prescribed by law.",
+        title:"Conditions of President’s office",
       },
       {
         article: "Article 60",
-        title:
-          "The President, before entering office, shall take the oath or affirmation to preserve, protect, and defend the Constitution and discharge the functions of the office of President.",
+        title:"Oath or affirmation by the President",
       },
       {
         article: "Article 61",
-        title:
-          "The President may be removed from office by impeachment for violation of the Constitution.",
+        title:"Procedure for Impeachment of the President Time of holding election to fill a vacancy in the office of President and the term of office or person elected to fill a casual vacancy",
       },
       {
         article: "Article 62",
         title:
           "An election to fill the office of the President shall be held before the expiration of the term of office of the President.",
       },
-      {
-        article: "Article 63",
-        title:
-          "There shall be a Vice President of India, who shall be the ex-officio Chairman of the Council of States (Rajya Sabha).",
-      },
-      {
-        article: "Article 64",
-        title:
-          "The Vice President shall be ex-officio Chairman of the Rajya Sabha.",
-      },
-      {
-        article: "Article 65",
-        title:
-          "In the event of the President being unable to perform their duties, the Vice President shall act as President.",
-      },
-      {
-        article: "Article 66",
-        title:
-          "The Vice President shall be elected by the members of an electoral college consisting of the members of both Houses of Parliament.",
-      },
-      {
-        article: "Article 67",
-        title:
-          "The Vice President shall hold office for a term of five years from the date on which he enters upon his office.",
-      },
-      {
-        article: "Article 68",
-        title:
-          "An election to fill the office of Vice President shall be held before the expiration of the term of office of the Vice President.",
-      },
-      {
-        article: "Article 69",
-        title:
-          "The Vice President shall take an oath or affirmation to preserve, protect, and defend the Constitution of India.",
-      },
-      {
-        article: "Article 70",
-        title:
-          "In case the Vice President is unable to perform his duties, the President may authorize another person to discharge the functions of the Vice President.",
-      },
-      {
-        article: "Article 71",
-        title:
-          "The provisions related to the election of the President or Vice President, including disputes, shall be determined by the Supreme Court.",
-      },
-      {
-        article: "Article 72",
-        title:
-          "The President shall have the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute the sentence of any person convicted of any offense.",
-      },
-      {
-        article: "Article 73",
-        title:
-          "The executive power of the Union extends to the matters on which the Parliament has the power to make laws.",
-      },
-      {
-        article: "Article 74",
-        title:
-          "There shall be a Council of Ministers with the Prime Minister as the head to aid and advise the President in the exercise of their functions.",
-      },
-      {
-        article: "Article 75",
-        title:
-          "The Prime Minister and other Ministers shall be appointed by the President, and they shall hold office during the pleasure of the President.",
-      },
-      {
-        article: "Article 76",
-        title:
-          "The President shall appoint an Attorney General for India, who shall be the chief legal advisor to the Government of India.",
-      },
-      {
-        article: "Article 77",
-        title:
-          "The President shall direct the manner in which the business of the Government of India is conducted.",
-      },
-      {
-        article: "Article 78",
-        title:
-          "It is the duty of the Prime Minister to communicate to the President all decisions of the Council of Ministers and proposals for legislation.",
-      },
-      {
-        article: "Article 79",
-        title:
-          "There shall be a Parliament for the Union consisting of the President and two Houses — the Rajya Sabha and the Lok Sabha.",
-      },
-      {
-        article: "Article 80",
-        title:
-          "The Rajya Sabha shall consist of not more than 250 members, with representatives from states and Union territories.",
-      },
-      {
-        article: "Article 81",
-        title:
-          "The House of the People (Lok Sabha) shall consist of not more than 552 members, elected directly by the people of India.",
-      },
-      {
-        article: "Article 82",
-        title:
-          "The allocation of seats in the House of the People shall be adjusted based on the population as determined by the latest census.",
-      },
-      {
-        article: "Article 83",
-        title:
-          "The Lok Sabha and the Rajya Sabha shall continue for five years unless dissolved earlier.",
-      },
     ],
   },
 
   {
-    part: "Part VI",
-    title: "THE STATES (152-237)",
+    part: "Part V",
+    title: "THE VICE PRESIDENT (63-73)",
     articles: [
       {
-        article: "Article 152",
-        title:
-          "In this Part, unless the context otherwise requires, 'State' means a State specified in the First Schedule.",
-      },
-      {
-        article: "Article 153",
-        title:
-          "There shall be a Governor for each State, except in the case of the Union Territories.",
-      },
-      {
-        article: "Article 154",
-        title:
-          "The executive power of the State shall be vested in the Governor and shall be exercised by him either directly or through officers subordinate to him.",
-      },
-      {
-        article: "Article 155",
-        title:
-          "The Governor of a State shall be appointed by the President of India.",
-      },
-      {
-        article: "Article 156",
-        title:
-          "The Governor shall hold office for a term of five years from the date on which he enters upon his office, but may resign earlier.",
-      },
-      {
-        article: "Article 157",
-        title:
-          "A person shall not be eligible for appointment as a Governor unless he is a citizen of India and has completed the age of 35 years.",
-      },
-      {
-        article: "Article 158",
-        title:
-          "The Governor shall take an oath or affirmation to preserve, protect, and defend the Constitution of India.",
-      },
-      {
-        article: "Article 159",
-        title:
-          "The Governor shall discharge his functions in accordance with the advice of the Council of Ministers, except when he is required to act in his discretion.",
-      },
-      {
-        article: "Article 160",
-        title:
-          "The President may, in relation to a State, specify functions of the Governor, which shall be performed by the President or other officers.",
-      },
-      {
-        article: "Article 161",
-        title:
-          "The Governor has the power to grant pardons, reprieves, respites, or remissions of punishment, or to suspend, remit, or commute the sentence of any person convicted of any offense.",
-      },
-      {
-        article: "Article 162",
-        title:
-          "The executive power of the State shall extend to the matters with respect to which the Legislature of the State has the power to make laws.",
-      },
-      {
-        article: "Article 163",
-        title:
-          "There shall be a Council of Ministers headed by the Chief Minister to aid and advise the Governor in the exercise of his functions.",
-      },
-      {
-        article: "Article 164",
-        title:
-          "The Chief Minister shall be appointed by the Governor, and other Ministers shall be appointed by the Governor on the advice of the Chief Minister.",
-      },
-      {
-        article: "Article 165",
-        title:
-          "The Governor may appoint a Law Minister for the State, who shall assist the Governor in legal matters.",
-      },
-      {
-        article: "Article 166",
-        title:
-          "All executive actions of the Governor shall be taken in his name, and the State Government shall make rules for the allocation of business.",
-      },
-      {
-        article: "Article 167",
-        title:
-          "The Chief Minister shall communicate to the Governor all decisions of the Council of Ministers relating to the administration of the affairs of the State and proposals for legislation.",
-      },
-      {
-        article: "Article 168",
-        title:
-          "There shall be a Legislature for each State consisting of the Governor and the two Houses of Legislature, except in States with a unicameral legislature.",
-      },
-      {
-        article: "Article 169",
-        title:
-          "A State Legislature may, by law, provide for a unicameral legislature consisting of only one House, and the President may assent to such a law.",
-      },
-      {
-        article: "Article 170",
-        title:
-          "The Legislative Assembly of the State shall consist of members directly elected by the people.",
-      },
-      {
-        article: "Article 171",
-        title:
-          "The Legislative Council of the State (if established) shall consist of a specified number of members, some of whom shall be elected by the members of the Legislative Assembly.",
-      },
-      {
-        article: "Article 172",
-        title:
-          "The term of office of the Legislative Assembly of the State shall be five years, unless it is dissolved earlier.",
-      },
-      {
-        article: "Article 173",
-        title:
-          "A person shall not be qualified to be elected as a member of the Legislative Assembly unless he is a citizen of India and is at least 25 years old.",
-      },
-      {
-        article: "Article 174",
-        title:
-          "The Governor may dissolve the Legislative Assembly or prorogue it.",
-      },
-      {
-        article: "Article 175",
-        title:
-          "The Governor may address the Legislative Assembly or send messages to it, but is not allowed to participate in the debates of the Assembly.",
-      },
-      {
-        article: "Article 176",
-        title:
-          "The Governor may deliver a special address to the Legislative Assembly at the commencement of its first session after each general election.",
-      },
-      {
-        article: "Article 177",
-        title:
-          "The Speaker of the Legislative Assembly shall be elected from among its members.",
-      },
-      {
-        article: "Article 178",
-        title:
-          "The Speaker may be removed from office by a resolution passed by the Legislative Assembly.",
-      },
-      {
-        article: "Article 179",
-        title:
-          "The Legislative Assembly of a State shall have a maximum of 500 members and a minimum of 60 members.",
-      },
-      {
-        article: "Article 180",
-        title:
-          "The Chairman of the Legislative Council shall be elected by its members from among themselves.",
-      },
-      {
-        article: "Article 181",
-        title:
-          "The Vice Chairman of the Legislative Council shall be elected by its members from among themselves.",
-      },
-      {
-        article: "Article 182",
-        title:
-          "The term of office of the Chairman and Vice Chairman of the Legislative Council is not fixed, but they may be removed by a resolution passed by the Council.",
-      },
-      {
-        article: "Article 183",
-        title:
-          "The Governor shall summon the Houses of the Legislature and may dissolve the Legislative Assembly.",
-      },
-      {
-        article: "Article 184",
-        title:
-          "The Governor shall summon the Legislature to meet at least once every year.",
-      },
-      {
-        article: "Article 185",
-        title:
-          "Each House of the Legislature may make its own rules of procedure.",
-      },
-      {
-        article: "Article 186",
-        title:
-          "The Governor may, from time to time, address the Legislature and send messages.",
-      },
-      {
-        article: "Article 187",
-        title:
-          "The proceedings of the Legislature shall not be questioned in any court.",
-      },
-      {
-        article: "Article 188",
-        title:
-          "The Speaker of the Legislative Assembly shall preside over its meetings.",
-      },
-      {
-        article: "Article 189",
-        title:
-          "The Speaker of the Legislative Assembly shall exercise his powers subject to the directions of the Assembly.",
+        article: "Article 63",
+        title:"The Vice-President Of India",
+      },{
+        article: "Article 64",
+        title:"The Vice-President to be ex-officio Chairman of the Council of States",
+      },{
+        article: "Article 65",
+        title:"The Vice-President to act as President or to discharge his functions during casual vacancies in the office, or the absence, of the President",
+      },{
+        article: "Article 66",
+        title:"Election of Vice-President",
+      },{
+        article: "Article 67",
+        title:"Term of office of Vice-President",
+      },{
+        article: "Article 68",
+        title:"Time of holding election to fill a vacancy in the office of Vice-President and the term of office of the person elected to fill a casual vacancy",
+      },{
+        article: "Article 69",
+        title:"Oath or affirmation by the Vice-President",
+      },{
+        article: "Article 70",
+        title:"Discharge of President’s functions in other contingencies",
+      },{
+        article: "Article 71",
+        title:"Matters relating to, or connected with, the election of a President or Vice-President",
+      },{
+        article: "Article 72",
+        title:"Power of President to grant pardons, etc., and to suspend, remit, or commute sentences in certain cases",
+      },{
+        article: "Article 73",
+        title:"Extent of executive power of the Union*",
       },
     ],
   },

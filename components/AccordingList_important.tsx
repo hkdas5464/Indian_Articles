@@ -3,7 +3,7 @@ import { ScrollView, View } from 'react-native';
 import { List, Text } from 'react-native-paper';
 
 // Import the data
-import indianConstitutionArticles from './indianConstitutionArticles';
+import indianConstitutionArticles from './importantarticles';
 
 const ConstitutionList = () => {
   return (
